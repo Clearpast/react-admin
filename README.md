@@ -16,9 +16,7 @@
 
 ### 二、Git 仓库地址 (欢迎 Star⭐)
 
-- Gitee：https://gitee.com/laramie/Hooks-Admin
-
-- GitHub：https://github.com/HalseySpicy/Hooks-Admin
+- GitHub：https://github.com/Clearpast/react-admin
 
 ### 三、🔨🔨🔨 项目功能
 
@@ -39,10 +37,8 @@
 - **Clone：**
 
 ```text
-# Gitee
-git clone https://gitee.com/laramie/Hooks-Admin.git
 # GitHub
-git clone https://github.com/HalseySpicy/Hooks-Admin.git
+git clone https://github.com/Clearpast/react-admin
 ```
 
 - **Install：**
@@ -175,18 +171,6 @@ Geeker-Admin
 
 > 扫描以下二维码，加入群聊 🤪
 
-|                                           微信群二维码                                            |
-| :-----------------------------------------------------------------------------------------------: |
-| <img src="https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220811092339.png" width=200> |
-
 ### 十、捐赠 🍵
 
-> **如果你正在使用这个项目或者喜欢这个项目的，可以通过以下方式支持我**
-
 - **Star、Fork、Watch** 一键三连 🚀🚀
-
-- 通过 **微信、支付宝** 一次性捐款，够维护访问地址就行 🤣🤣
-
-|                                                         微信                                                          |                                                        支付宝                                                         |
-| :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220610144145.png" alt="Wechat QRcode" width=170> | <img src="https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220610144200.png" alt="Alipay QRcode" width=170> |
